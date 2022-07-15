@@ -7,17 +7,24 @@ This credit risk assessments aim was to successfully identify individuals who ar
 
 •	RandomOverSampler: 67 high-risk cases and 10,558 low-risk cases were successfully identified in this model. Alternatively, there were 34 false negatives and 6546 false positives returned via this model. This resulted in an accuracy score of 64%, precision of 1%, and recall of 66%.
 
- 
+ ![image](https://user-images.githubusercontent.com/101481759/179178774-0a3db6d4-4b63-427f-bd0e-1d719bad582b.png)
+
 
 •	Smote: This model successfully predicted 62 high-risk cases and 11,787 low risk cases. However, 39 were false negatives, and 5,317 false positives. This model returned a balanced accuracy score of 65%, precision of 1%, and recall of 61%.
 
+![image](https://user-images.githubusercontent.com/101481759/179178983-00a00034-b40e-458e-a8df-9d4008fe05f3.png)
 
  
 
 •	ClusterCentroids: This model successfully predicted 70 high-risk cases and 6,763 low risk cases. However, 31 were false negatives, and 10,341 false positives. This model returned a balanced accuracy score of 54%, precision of 1%, and recall of 69%.
  
+ ![image](https://user-images.githubusercontent.com/101481759/179179021-9f6992c6-136d-48a9-8bbd-dfe3d1084a62.png)
+
+ 
 •	Smoteen: This model successfully predicted 76 high-risk cases and 9,538 low-risk. Alternatively, 25 were false negatives, and 7,566 false positives. Resulting in a balanced accuracy score of 67%, precision of 1%, and recall of 73%.
  
+![image](https://user-images.githubusercontent.com/101481759/179179068-4fad25bf-436f-4746-8fd4-75d8aa10050a.png)
+
 
 # Summary
-![image](https://user-images.githubusercontent.com/101481759/179178063-fc3fe9d6-6752-4711-905a-3c5d61babf34.png)
+
