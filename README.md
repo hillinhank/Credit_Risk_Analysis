@@ -3,7 +3,7 @@
 The purpose of this analysis is to sample and predict credit risk using several different supervised machine learning models. Python libraries imbalanced-learn and scikit-learn were utilized,  in visual studio code via a Jupyter notebooks local server,  to create this analysis. The machine learning models used include: naive random oversampling, SMOTE, cluster centroids, SMOTEENN, Balanced Random Forest, and Easy Ensemble.
 
 # Results
-This credit risk assessments aim was to successfully identify individuals who are cause for concern for repayment i.e. poor credit history. It is important to note that the precision and recall metrics displayed below were used to aid in proper identification of high risk loans, and that this identification is displayed as a “positive result”.
+It is important to note that the precision and recall metrics displayed below were used to aid in proper identification of high risk loans, and that this identification is displayed as a “positive result”.
 
 •	RandomOverSampler: 67 high-risk cases and 10,558 low-risk cases were successfully identified in this model. Alternatively, there were 34 false negatives and 6546 false positives returned via this model. This resulted in an accuracy score of 64%, precision of 1%, and recall of 66%.
 
@@ -27,4 +27,4 @@ This credit risk assessments aim was to successfully identify individuals who ar
 
 
 # Summary
-This data was successfully rendered through multiple machine learning models, thus achieving the purpose of this analysis. 
+This aim of this credit risk assessments was to successfully identify individuals who are cause for concern for repayment i.e. poor credit history. This data was successfully rendered through multiple machine learning models, thus achieving the purpose of this analysis. 
