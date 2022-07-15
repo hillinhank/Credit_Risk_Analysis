@@ -27,4 +27,4 @@ This credit risk assessments aim was to successfully identify individuals who ar
 
 
 # Summary
-
+This data was successfully rendered through multiple machine learning models, thus achieving the purpose of this analysis. 
