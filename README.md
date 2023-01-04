@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 # Overview
-The purpose of this analysis is to sample and predict credit risk using several different supervised machine learning models. Python libraries imbalanced-learn and scikit-learn were utilized,  in visual studio code via a Jupyter notebooks local server,  to create this analysis. The machine learning models used include: naive random oversampling, SMOTE, cluster centroids, SMOTEENN, Balanced Random Forest, and Easy Ensemble..
+The purpose of this analysis is to sample and predict credit risk using several different supervised machine learning models. Python libraries imbalanced-learn and scikit-learn were utilized,  in visual studio code via a Jupyter notebooks local server,  to create this analysis. The machine learning models used include: naive random oversampling, SMOTE, cluster centroids, SMOTEENN, Balanced Random Forest, and Easy Ensemble.
 
 # Results
 It is important to note that the precision and recall metrics displayed below were used to aid in proper identification of high risk loans, and that this identification is displayed as a “positive result”.
